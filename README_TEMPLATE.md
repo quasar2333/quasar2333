@@ -11,10 +11,10 @@
 
 <!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="My GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=quasar2333&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="My GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&langs_count=10&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quasar2333&layout=compact&theme=tokyonight&langs_count=10&hide_border=true" alt="Top Languages" />
 </p>
 
 <!-- Optional: Pinned Repositories. Uncomment and replace USERNAME and REPO_NAME for each.
