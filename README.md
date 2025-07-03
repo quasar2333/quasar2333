@@ -1,75 +1,73 @@
-<div align="center">
+<!-- Optional: A banner image or a prominent personal logo could go here -->
+<!-- ![Banner](./path/to/your/banner.png) -->
 
-<a href="https://github.com/quasar2333">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=quasar2333&repo=quasar2333&theme=dracula" alt="Repo Banner">
-</a>
+# 👋 Hello! I'm [Your Name/Alias Here - e.g., Kevin]
 
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=quasar2333&label=Profile%20views&color=blueviolet&style=flat-square" alt="profile views"/>
-  <a href="https://wakatime.com/@141f2333-659e-4a4a-a9a3-481335b3e232"><img src="https://wakatime.com/badge/user/141f2333-659e-4a4a-a9a3-481335b3e232.svg" alt="wakatime"></a>
-</div>
+> Minecraft Mod Developer & AI Learner
 
 ---
 
-### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width = 50px></picture> 关于我 & 联系方式
+## 📊 My GitHub Statistics / 我的 GitHub 数据
 
-<table align="center">
-<tr>
-<td valign="top" width="65%">
-
-- 📫 如何找到我：
-  <p align="left">
-    <a href="https://space.bilibili.com/35928678" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/bilibili.svg" alt="bilibili" height="30" width="40" /></a>
-    <a href="mailto:你的邮箱地址" target="blank"><img align="center" src="https://cdn.simpleicons.org/gmail/D14836" alt="email" height="30" width="30" /></a>
-    <!-- 在这里添加更多社交链接 -->
-  </p>
-</td>
-<td valign="top" width="35%">
-  <img src="https://github-readme-stats.vercel.app/api?username=quasar2333&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</td>
-</tr>
-</table>
-
----
-
-### 🚀 我的技能树
-
+<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
 <p align="center">
-    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> </a>
-    <a href="https://go.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" width="45" height="45"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> </a>
-    <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="45" height="45"/> </a>
-    <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a>
-    <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/> </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="My GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&langs_count=10&hide_border=true" alt="Top Languages" />
 </p>
 
----
-
-### 📊 GitHub 统计数据
-
+<!-- Optional: Pinned Repositories. Uncomment and replace USERNAME and REPO_NAME for each.
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=quasar2333&show_icons=true&locale=en&layout=compact&theme=dracula" alt="top langs" />
-   
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quasar2333&theme=dracula" alt="streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_NAME_1&theme=tokyonight" alt="Pinned Repo 1"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_NAME_2&theme=tokyonight" alt="Pinned Repo 2"/>
 </p>
+-->
 
 ---
 
-### 📌 精选项目
+## 🚀 About Me (English)
 
-<p align="center">
-  <!-- 将下面的 username 和 repo 替换成你自己的项目 -->
-  <a href="https://github.com/quasar2333/pyqt-fluent-components"><img src="https://github-readme-stats.vercel.app/api/pin/?username=quasar2333&repo=pyqt-fluent-components&theme=dracula"/></a>
-  <a href="https://github.com/quasar2333/MusicPlayer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=quasar2333&repo=MusicPlayer&theme=dracula"/></a>
-</p>
+I am a developer with a primary focus on Minecraft Modding and an active interest in Artificial Intelligence. My background in mod development provides a foundation in software engineering principles and creative problem-solving. I am currently expanding my knowledge in AI concepts and applications.
 
 ---
 
-### ⚡ GitHub 活动
+## 🚀 关于我 (Chinese)
 
-<!--START_SECTION:activity-->
+我是一名开发者，主要致力于《我的世界》模组开发，并对人工智能抱有积极的兴趣。我的模组开发背景为我打下了软件工程原理和创造性问题解决方面的基础。我目前正在扩展我在人工智能概念和应用方面的知识。
 
-<!--END_SECTION:activity-->
+---
+
+## 🛠️ Skills & Current Focus / 技能与当前重点
+
+### Minecraft Mod Development / 《我的世界》模组开发
+*   **Languages/APIs:** [e.g., Java, Forge API, Fabric API - 请在此处填写您的具体技能]
+*   **Experience:** [e.g., Developing gameplay mechanic mods, utility mods - 请在此处填写您的经验]
+*   **Current Project(s):** `{{MINECRAFT_PROJECT_INFO}}` <!-- Kept for specific project details not on GitHub -->
+
+### 🤖 AI Learning / AI 学习
+*   **Currently Exploring / 当前探索:** `{{AI_LEARNING_INFO}}` <!-- Kept for specific learning topics -->
+*   **Interests / 兴趣领域:** [e.g., Natural Language Processing, Generative AI - 例如：自然语言处理，生成式AI]
+
+### ✨ General / 其他
+*   Software Development
+*   Problem Solving
+
+---
+
+## 📝 Latest Status / 最新动态
+`{{STATUS_UPDATE}}` <!-- General status update, can be anything -->
+
+---
+
+## 🌐 Let's Connect! / 联系方式
+
+*   📧 **Email:** [quasar2333@gmail.com](mailto:quasar2333@gmail.com)
+*   <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6cc3c481a15a141738_icon_clyde_white_RGB.png" width="20" height="20" alt="Discord Icon"> **Discord:** ultimate__kevin
+*   <img src="https://ssl.gstatic.com/images/branding/product/1x/qq_2020q4_48dp.png" width="20" height="20" alt="QQ Icon"> **AI Exchange QQ Group / AI交流QQ群:** 868381808
+
+<!-- Optional: Links to other profiles like GitHub, LinkedIn, personal website -->
+<!-- *   [GitHub Profile](https://github.com/YOUR_GITHUB_USERNAME) -->
+
+---
+_Last updated / 最后更新: {{LAST_UPDATED}}_

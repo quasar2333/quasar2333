@@ -1,0 +1,59 @@
+name: Update Profile README
+
+on:
+  schedule:
+    # Runs every 6 hours. You can adjust this cron schedule.
+    # See https://crontab.guru/ for help.
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Allows manual triggering from the Actions tab
+  push: # Optionally, run when dynamic info or template changes
+    paths:
+      - '_dynamic_info/**.txt'
+      - 'README_TEMPLATE.md'
+      - 'build_profile.py'
+      - '.github/workflows/update_profile.yml'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x' # Use a recent Python 3.x version
+
+      - name: Ensure README_TEMPLATE.md exists
+        run: |
+          if [ ! -f README_TEMPLATE.md ]; then
+            if [ -f README.md ]; then
+              echo "README_TEMPLATE.md not found. Renaming README.md to README_TEMPLATE.md"
+              mv README.md README_TEMPLATE.md
+            else
+              echo "Error: README_TEMPLATE.md not found and no README.md to rename."
+              exit 1
+            fi
+          fi
+        # This step is crucial because the build_profile.py script expects README_TEMPLATE.md
+        # The script itself also has a check, but this makes the Action more robust.
+
+      - name: Run script to update README.md
+        run: python build_profile.py
+
+      - name: Commit and push if README.md changed
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          # Check if there are any changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Docs: Auto-update profile README via GitHub Actions"
+            git push
+          fi
+        env:
+          # This token is automatically provided by GitHub Actions
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
